@@ -9,6 +9,11 @@ The system uses a **multi-agent AI workflow** powered by **IBM Granite** to anal
 
 ---
 
+ ## 🌐 Live Demo
+🔗 Frontend: https://career-pilot-dn8rxgopb-anetcolins-projects.vercel.app/
+🔗 Backend API: https://careerpilot-ai-backend-uydp.onrender.com/
+
+
 ## 🌟 Features
 
 ### 🤖 Multi-Agent AI System
